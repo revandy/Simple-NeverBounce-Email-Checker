@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5301ec5a75e451f9fdf93eb7ff8ab56a",
+    "packages": [
+        {
+            "name": "neverbounce/neverbounce-php",
+            "version": "v3.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/NeverBounce/NeverBounceAPI-PHP.git",
+                "reference": "3646ec6f9e914abd8be9164f78f41d30ee451bf3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/NeverBounce/NeverBounceAPI-PHP/zipball/3646ec6f9e914abd8be9164f78f41d30ee451bf3",
+                "reference": "3646ec6f9e914abd8be9164f78f41d30ee451bf3",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "NeverBounce\\API\\": "src/api/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ankur Pandit",
+                    "email": "ankur@neverbounce.com"
+                },
+                {
+                    "name": "Michael Mollick",
+                    "email": "mike@neverbounce.com"
+                }
+            ],
+            "description": "This package provides convenient methods to integrate the NeverBounce API into your project.",
+            "homepage": "https://neverbounce.com",
+            "keywords": [
+                "email",
+                "email validation",
+                "validation",
+                "verification"
+            ],
+            "time": "2017-05-31T13:12:37+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

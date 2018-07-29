@@ -1,4 +1,4 @@
-###Features
+##Features
 
 - Check Valid Email
 - Knowing Bad Email
@@ -7,7 +7,7 @@
 
 
 
-###Example
+##Example
 
 
 ![](https://image.ibb.co/cDA1B8/proof.jpg)
@@ -20,4 +20,4 @@
 
 
 
-###End
+##End
